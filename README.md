@@ -1,0 +1,1 @@
+My first project using codes; I intend to improve it. I wanted to to make something that could bring together programation and financial subjects. So I chose to create a code that would be able to analyze real information among some days, and tell the person if it is a great time for selling or buying stocks (according to the mean)
